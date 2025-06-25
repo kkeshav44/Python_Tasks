@@ -1,2 +1,2 @@
 # Python_Tasks
-Here is two python tasks , as aked for internship
+Here are the python tasks as provided for Internship by CodeAlpha
